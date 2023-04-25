@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sandeep-Narahari
-- 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning Cosmos Sdk and Golang
+- 👀 I’m interested in product development
+- 🌱 I’m currently working as Fullstack Developer
 - 📫 You can reach me on sandeepnarahari2@gmail.com
 
 <!---
