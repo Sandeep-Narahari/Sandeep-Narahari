@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sandeep-Narahari
 - 👀 I’m interested in product development
-- 🌱 I’m currently working as Fullstack Developer
 - 📫 You can reach me on sandeepnarahari2@gmail.com
 
 <!---
